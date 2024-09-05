@@ -60,5 +60,4 @@ To preview the production build locally:
 
 ## License
 This project is licensed under the MIT License.
-    ```bash
-    Feel free to modify it as needed, especially the repository URL in the "Installation" section if you haven't set up GitHub. If you have any additional details you'd like to include, let me know!
+    Feel free to modify it as needed, especially the repository URL in the "Installation" section if you haven't set up GitHub. If you have any additional details you'd like to include,   let me know!
